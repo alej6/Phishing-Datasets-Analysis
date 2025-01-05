@@ -61,8 +61,8 @@
 
 <h2> Results and Findings</h2>
 <ul><li><strong>Decision Tree:</strong> The decision tree was able to classify websites as phishing or legitimate based on their features with an accuracy of 96%.</li>
-<li><strong>Confusion Matrix: </strong>strong>The model correctly identified most phishing and legitimate websites but made a few errors (false positives and false negatives).</li>
-<li><strong>T-Test Results:</strong>strong> The T-test for the "popupwindow" feature showed no significant difference between phishing and legitimate websites (p-value > 0.05), suggesting that this feature may not be useful for distinguishing the two classes in this dataset.</li>
+<li><strong>Confusion Matrix: </strong>The model correctly identified most phishing and legitimate websites but made a few errors (false positives and false negatives).</li>
+<li><strong>T-Test Results:</strong>The T-test for the "popupwindow" feature showed no significant difference between phishing and legitimate websites (p-value > 0.05), suggesting that this feature may not be useful for distinguishing the two classes in this dataset.</li>
 </ul>
 
 <h2> Takeaways</h2>
